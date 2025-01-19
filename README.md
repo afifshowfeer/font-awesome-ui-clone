@@ -15,7 +15,7 @@ https://afifshowfeer.github.io/font-awesome-ui-clone/
 
 - Replicated the Font Awesome website design using only **HTML** and **CSS**.
 - **Working links** for navigation.
-- Clean and responsive design.
+- Clean and non-responsive design.
 
 ---
 
